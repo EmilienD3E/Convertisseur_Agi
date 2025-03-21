@@ -1,0 +1,1 @@
+pyuic5 Convertisseur_Agi_dialog_base.ui -o Convertisseur_Agi_dialog_base.py

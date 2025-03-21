@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Convertisseur_Agi" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
